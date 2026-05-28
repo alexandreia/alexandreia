@@ -1,6 +1,6 @@
 # Hi, I'm Andreia 👋
 
-I'm a MA student @ Uppsala Univeristy interested in NLP and machine learning — mostly language models, translation quality, and how evaluation actually works in practice.
+I'm a MA student @ Uppsala Univeristy interested in NLP and machine learning.
 
 ---
 
