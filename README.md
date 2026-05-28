@@ -4,13 +4,6 @@ I'm a MA student @ Uppsala Univeristy interested in NLP and machine learning —
 
 ---
 
-## 🔬 What I'm working on
-
-**[PEFT for Czech→English MT](https://github.com/alexandreia/machine_translation_peft_finetuning_nllb)**  
-Comparing LoRA, IA³, and prefix tuning against full fine-tuning on NLLB-200 in a low-resource setting. Can you update less than 0.2% of a model's parameters and still get decent translation quality? Turns out yes — with some interesting trade-offs between BLEU and COMET.
-
----
-
 ## 🛠️ What I work with
 
 Python · HuggingFace Transformers · PEFT · RAG · LangChain · sacrebleu · COMET · pandas · Git
