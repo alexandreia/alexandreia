@@ -4,12 +4,6 @@ I'm a MA student @ Uppsala Univeristy interested in NLP and machine learning.
 
 ---
 
-## 🛠️ What I work with
-
-Python · HuggingFace Transformers · PEFT · RAG · LangChain · sacrebleu · COMET · pandas · Git
-
----
-
 ## 📂 Projects
 
 | Project | What it does |
