@@ -1,6 +1,6 @@
 # Hi, I'm Andreia 👋
 
-I'm a MA student @ Uppsala Univeristy in Language Technology, interested in linguistics, NLP and machine learning.
+I'm a MA student @ Uppsala Univeristy in Language Technology, interested in linguistics, quality, NLP and machine learning.
 
 ---
 
